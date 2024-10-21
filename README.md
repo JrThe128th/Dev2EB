@@ -1,7 +1,7 @@
-#Dev 2: Electric Boogaloo
+# Dev 2: Electric Boogaloo
 **Programmers:** Daniel, Gibson
 **Sound:** Christopher
 **Art:** Miguel
 
-##Game in development:
+## Game in development:
 ##TBA
