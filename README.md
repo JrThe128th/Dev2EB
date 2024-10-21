@@ -6,7 +6,8 @@
 ## Game in development:
 ## TBD 
 
-## Engine used:
-## Unity 6
+## Software used:
++ Unity 6
++ TBD for sound and art
 
 ### This repository will be updated over time with contributions from all members.
