@@ -4,4 +4,6 @@
 **Art:** Miguel
 
 ## Game in development:
-##TBA
+## TBA
+
+### This repository will be updated over time with contributions from all members.
